@@ -1,0 +1,6 @@
+C:\Users\petya\Desktop\tasks\CoordinateSystem\CoordinateSystem\bin\Debug\CoordinateSystem.exe.config
+C:\Users\petya\Desktop\tasks\CoordinateSystem\CoordinateSystem\bin\Debug\CoordinateSystem.exe
+C:\Users\petya\Desktop\tasks\CoordinateSystem\CoordinateSystem\bin\Debug\CoordinateSystem.pdb
+C:\Users\petya\Desktop\tasks\CoordinateSystem\CoordinateSystem\obj\Debug\CoordinateSystem.csprojResolveAssemblyReference.cache
+C:\Users\petya\Desktop\tasks\CoordinateSystem\CoordinateSystem\obj\Debug\CoordinateSystem.exe
+C:\Users\petya\Desktop\tasks\CoordinateSystem\CoordinateSystem\obj\Debug\CoordinateSystem.pdb
